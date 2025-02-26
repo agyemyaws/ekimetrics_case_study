@@ -1,0 +1,9 @@
+2025-02-26 14:20:43,021 - ERROR - Error updating movie data: [Errno 2] No such file or directory: 'data\\movies.xlsx'
+2025-02-26 14:20:43,022 - ERROR - Script execution failed: [Errno 2] No such file or directory: 'data\\movies.xlsx'
+2025-02-26 14:22:07,145 - ERROR - Error updating movie data: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-02-26 14:22:07,145 - ERROR - Script execution failed: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-02-26 14:23:47,588 - INFO - Loaded 150 movies from source file
+2025-02-26 14:24:05,473 - ERROR - Error generating visualizations: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-26 14:24:05,476 - ERROR - Error generating analysis: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-26 14:24:05,476 - ERROR - Error updating movie data: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-02-26 14:24:05,476 - ERROR - Script execution failed: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)

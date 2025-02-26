@@ -1,0 +1,13 @@
+{
+    "api_keys": {
+        "omdb": "f710ddc8"
+    },
+    "paths": {
+        "data_directory": "data",
+        "output_directory": "output"
+    },
+    "analysis": {
+        "min_year": 2006,
+        "min_box_office": 0
+    }
+}
