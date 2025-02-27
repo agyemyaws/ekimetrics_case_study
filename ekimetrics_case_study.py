@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-"""
-Neon Films Movie Analysis Script
-Author: [Your Name]
-Date: February 2025
-
-This script analyzes movie data using OMDB API to help
-Neon Films make data-driven decisions about movie production.
-"""
-
 import os
 import pandas as pd
 import numpy as np
